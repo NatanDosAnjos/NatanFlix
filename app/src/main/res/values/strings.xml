@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NatanFlix</string>
+    <string name="movie_name">Vikings</string>
+    <string name="epsodio">S4:E7</string>
+    <string name="menu_Comentarios">Menu Comentários</string>
+    <string name="menu_Volume">Menu Volume</string>
+    <string name="menu_Favoritar">Menu Favoritar</string>
+    <string name="menu_Episodios">Menu Episódios</string>
+</resources>
